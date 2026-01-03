@@ -1,0 +1,14 @@
+# This directory will contain blog post JSON files
+# Example format:
+# {
+#   "slug": "your-post-slug",
+#   "title": "Your Post Title",
+#   "excerpt": "Brief description...",
+#   "content": "Full markdown content...",
+#   "date": "2024-01-01",
+#   "author": "Author Name",
+#   "featuredImage": "https://images.unsplash.com/...",
+#   "images": [],
+#   "keywords": ["keyword1", "keyword2"],
+#   "metaDescription": "SEO description..."
+# }

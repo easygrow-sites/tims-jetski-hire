@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "name": "Jetski Rental",
+      "slug": "jetski-rental",
+      "description": "Premium jetski rentals with the latest models available for hourly, half-day, and full-day adventures on the Gold Coast waters."
+    },
+    {
+      "name": "Guided Jetski Tours",
+      "slug": "guided-jetski-tours",
+      "description": "Exciting guided jetski tours exploring the stunning Gold Coast waterways, islands, and hidden gems with experienced tour guides."
+    },
+    {
+      "name": "Jetski Lessons",
+      "slug": "jetski-lessons",
+      "description": "Professional jetski lessons for beginners and advanced riders with certified instructors ensuring safety and skill development."
+    },
+    {
+      "name": "Group Bookings",
+      "slug": "group-bookings",
+      "description": "Special group packages for parties, corporate events, team building activities, and family celebrations on the water."
+    },
+    {
+      "name": "Jetski Fishing",
+      "slug": "jetski-fishing",
+      "description": "Specialized jetski fishing adventures with equipped watercraft for reaching the best fishing spots on the Gold Coast."
+    },
+    {
+      "name": "Sunset Jetski Rides",
+      "slug": "sunset-jetski-rides",
+      "description": "Unforgettable sunset jetski experiences cruising the Gold Coast waters during the golden hour with breathtaking views."
+    },
+    {
+      "name": "Wave Runner Hire",
+      "slug": "wave-runner-hire",
+      "description": "High-performance wave runner rentals for thrill-seekers looking for speed and excitement on the open water."
+    },
+    {
+      "name": "Jetski Safari Adventures",
+      "slug": "jetski-safari-adventures",
+      "description": "Extended safari adventures exploring multiple locations, beaches, and waterways with stops for swimming and sightseeing."
+    },
+    {
+      "name": "Private Jetski Charters",
+      "slug": "private-jetski-charters",
+      "description": "Exclusive private jetski charters tailored to your preferences with personalized routes and flexible scheduling."
+    },
+    {
+      "name": "Corporate Jetski Events",
+      "slug": "corporate-jetski-events",
+      "description": "Professional corporate event planning with jetski activities for team building, client entertainment, and company celebrations."
+    },
+    {
+      "name": "Birthday Jetski Packages",
+      "slug": "birthday-jetski-packages",
+      "description": "Special birthday packages including jetski rentals, decorations, and group activities for memorable celebrations on the water."
+    },
+    {
+      "name": "Jetski Racing Experiences",
+      "slug": "jetski-racing-experiences",
+      "description": "Adrenaline-pumping jetski racing experiences with competitive courses and timing for thrill-seekers and racing enthusiasts."
+    }
+  ]
+}
